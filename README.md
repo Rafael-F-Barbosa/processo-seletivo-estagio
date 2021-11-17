@@ -2,13 +2,14 @@
 
 O problema escolhido foi o Mesa Redonda, disponível em https://olimpiada.ic.unicamp.br/pratique/pu/2019/f3/mesa/. É um problema da Fase 3 das olimpíadas da Unicamp de 2019.
 
-## Explicação do problema
+## O problema
 
 Ana, Beatriz e Carolina sempre saem juntas para tomar café numa padaria onde as mesas são circulares e têm três cadeiras numeradas 0, 1 e 2, no sentido anti-horário, como ilustrado na figura ao lado.
 
 Elas gostam de decidir quem vai sentar em qual cadeira com uma brincadeira gerando números aleatórios nos seus celulares. Primeiro Ana sorteia um número inteiro A e, começando da cadeira 1, seguindo no sentido anti-horário, conta A cadeiras e senta na cadeira em que a contagem terminar. Depois Beatriz sorteia um número B e faz a mesma coisa: começando da cadeira 1, no sentido anti-horário, conta B cadeiras. Se a cadeira final estiver livre, Beatriz senta nela. Caso seja a cadeira onde Ana está sentada, então Beatriz senta na próxima cadeira no sentido anti-horário. Claro, ao final, Carolina senta na cadeira que estiver livre.
 
-![Alt ou título da imagem](/images/mesa_redonda.png)
+
+![Alt ou título da imagem](/images/mesa_redonda.jpg)
 
 ## Solução
 Foi utilizada a linguagem de programação python e a solução foi pensada da seguinte forma:
