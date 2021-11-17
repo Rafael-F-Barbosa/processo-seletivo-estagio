@@ -11,6 +11,12 @@ Elas gostam de decidir quem vai sentar em qual cadeira com uma brincadeira geran
 
 ![Alt ou título da imagem](/images/mesa_redonda.jpg)
 
+### Entrada
+A primeira linha da entrada contém um inteiro A representando o número sorteado por Ana. A segunda linha da entrada contém um inteiro B representando o número sorteado por Beatriz.
+
+### Saída
+Seu programa deve imprimir uma linha contendo um número inteiro indicando a cadeira onde Carolina vai sentar.
+
 ## Solução
 Foi utilizada a linguagem de programação python e a solução foi pensada da seguinte forma:
 
